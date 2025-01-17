@@ -1,4 +1,4 @@
-#Multiplication Quiz
+#Multiplication Quiz Game
 
 #Initialize
 import random
