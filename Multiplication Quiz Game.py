@@ -1,6 +1,6 @@
 #Multiplication Quiz
 
-#Import
+#Initialize
 import random
 import time
 
