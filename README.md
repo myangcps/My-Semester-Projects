@@ -13,7 +13,7 @@
 - Code determines what superhero you match based on the answers you gave to the questions.
 - Handles invalid inputs.
 
-  ### Project 3: Rock, Paper, or Scissors?
+### Project 3: Rock, Paper, or Scissors?
 **Summary**: This program allows users to play the rock, paper, or scissors game.
 **Key Features**: 
 - The game first starts by asking the user to input their move.
